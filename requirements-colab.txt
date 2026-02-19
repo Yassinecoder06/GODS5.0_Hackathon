@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+iterative-stratification
+transformers
+datasets
+accelerate
+tqdm
+matplotlib
